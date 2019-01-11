@@ -29,7 +29,7 @@ The repository contains:
 
 ### A summary of the results of the analysis
 
-We found that typically programmers are leading reasonably healthy, balanced lives, are a part of a tight supportive community and care a lot about their work environment, collaborative spirit and impact of their work.
+We found that typically programmers are leading reasonably healthy, balanced lives, are a part of a tight supportive community and care a lot about their work environment, collaborative spirit and impact of their work. See the full report in [this blog post](https://medium.com/@anamamatelashvili/are-programmers-really-geeky-hermits-f3fd9e432175).
 
 ### Acknowledgements
 Thanks to my brother for posing for the title picture for the post. 
