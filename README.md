@@ -3,7 +3,7 @@
 #### Table of Contents
 1. [The libraries used](#libraries)
 2. [The motivation for the project](#motivation)
-3. [The files in the repository](#files
+3. [The files in the repository](#files)
 3. [A summary of the results of the analysis](#results)
 3. [Acknowledgements](#acknowledgements)
 
