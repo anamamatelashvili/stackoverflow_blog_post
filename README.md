@@ -1,26 +1,41 @@
-# udacity_blog
+# Are Programmers Really Geeky Hermits?
 
-# Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-
-### Example
-### Example2
-### Third Example
-
+#### Table of Contents
+1. [The libraries used](#libraries)
+2. [The motivation for the project](#motivation)
+3. [The files in the repository](#files
+3. [A summary of the results of the analysis](#results)
+3. [Acknowledgements](#acknowledgements)
 
 ### The libraries used
 All the libraries are standard for Anaconda distribution, unless you have an older version of Anaconda in which case you might need to install seaborn separately. We use Python 3.6. 
 
 ### The motivation for the project
 
+For someone considering switching careers to programming or just starting in the field, it might be interesting to get an idea of how it would influence their life and how it would fit their personality. I would like to investigate the following three questions:
+
+* What are typical lifestyles among the developers?
+
+* How supportive or tight is the community?
+
+* What are the job priorities that make programmers happy?
+
 
 ### The files in the repository 
 
-with a small description of each, 
+The repository contains:
 
-### A summary of the results of the analysis:
+* ds_blog.ipynb: the notebook with analysis for the blog post
+
+* survey_results_public.csv: the data from [stackoverflow](https://insights.stackoverflow.com/survey) used for this analysis
+
+* survey_results_schema.csv: the description of all columns
+
+### A summary of the results of the analysis
+
+We found that typically programmers are leading reasonably healthy, balanced lives, are a part of a tight supportive community and care a lot about their work environment, collaborative spirit and impact of their work.
 
 ### Acknowledgements
 Thanks to my brother for posing for the title picture for the post. 
+
+Thanks to [stackoverflow](https://insights.stackoverflow.com/survey) for sharing the data. 
