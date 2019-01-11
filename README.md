@@ -27,10 +27,6 @@ The repository contains:
 
 * ds_blog.ipynb: the notebook with analysis for the blog post
 
-* survey_results_public.csv: the data from [stackoverflow](https://insights.stackoverflow.com/survey) used for this analysis
-
-* survey_results_schema.csv: the description of all columns
-
 ### A summary of the results of the analysis
 
 We found that typically programmers are leading reasonably healthy, balanced lives, are a part of a tight supportive community and care a lot about their work environment, collaborative spirit and impact of their work.
